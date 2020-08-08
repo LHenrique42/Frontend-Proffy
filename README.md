@@ -53,7 +53,6 @@ This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
 * [React](https://reactjs.org/)      
-* [Expo](https://expo.io/)       
 * [Express](https://expressjs.com/)      
 
 # :rocket: Features
